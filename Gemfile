@@ -41,5 +41,5 @@ gem 'jquery-rails'
 gem 'haml'
 # use Ruby debugger
 group :development, :test do
-gem 'debugger'
+gem 'pg'
 end
