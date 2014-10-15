@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1150968818">
+    <data-source source="LOCAL" name="Rails derp: development" uuid="b7f8cb06-7540-4ab0-a41c-7d488f01a427">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Anynomous\Documents\ITCS-3155\Ruby_Folder\derp\db\development.sqlite3</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails derp: test" uuid="7c3161f6-aa89-4f3f-b8a2-9d3ae5c05451">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Anynomous\Documents\ITCS-3155\Ruby_Folder\derp\db\test.sqlite3</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
